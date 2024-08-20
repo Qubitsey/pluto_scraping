@@ -38,21 +38,19 @@ cd pluto_scrapping
 	```
 	python3 -m venv venv/
 	source venv/bin/activate
-	pip install -r requirements.txt
 	```
     **Windows**
 	```
 	python3 -m venv venv/
 	C:\<chemin_dossir>\venv\Scripts\activate.bat
-	pip install -r requirements.txt
 	```
-4. Install dependencies
+ 4. Install dependencies
 
 ```
 pip install requests pandas beautifulsoup4
 ```
 
-5. Ejecutar el script
+ 5. Ejecutar el script
 
 ```
 python pluto.py
