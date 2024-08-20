@@ -50,11 +50,11 @@ python3 -m venv venv/
 pip install requests pandas beautifulsoup4
 ```
 
- 5. Ejecutar el script
+ 5. Run the script
 
 ```
-python pluto.py
+python pluto_scraping.py
 ```
-6. Verifica el resultado:
-El script generará un archivo CSV con el nombre basado en el tiempo de ejecución, como pluto_227s.csv. Este archivo estará en la misma carpeta donde ejecutaste el script.
-Además, el script mostrará en la consola el nombre del archivo generado y el tiempo total de ejecución. Abre el archivo generado con cualquier editor de texto, Excel, o cualquier software que soporte archivos CSV.
+6. Check the result
+The script will generate a CSV file named based on the runtime, such as pluto_227s.csv. This file will be in the same folder where you ran the script.
+Additionally, the script will display the name of the generated file and the total execution time in the console. Open the generated file with any text editor, Excel, or any software that supports CSV files.
