@@ -29,7 +29,7 @@ git clone https://github.com/Qubitsey/pluto_scraping/blob/main
 2. Enter the project folder
 
 ```
-cd pluto_scrapping
+cd pluto_scraping
 ```
 
 3. Create and activate the virtual environment
