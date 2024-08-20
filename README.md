@@ -22,9 +22,9 @@ The project requires Python 3 installed on the system.
 ### Installation
 
 1. Clone the Git
-	```
-	git clone https://github.com/
-	```
+```
+git clone https://github.com/
+```
 
 2. Enter the project folder
 
@@ -35,15 +35,15 @@ cd pluto_scrapping
 3. Create and activate the virtual environment
 
     **Linux/MacOS**
-	```
-	python3 -m venv venv/
-	source venv/bin/activate
-	```
+```
+python3 -m venv venv/
+source venv/bin/activate
+```
     **Windows**
-	```
-	python3 -m venv venv/
-	C:\<chemin_dossir>\venv\Scripts\activate.bat
-	```
+```
+python3 -m venv venv/
+\venv\Scripts\activate.bat
+```
  4. Install dependencies
 
 ```
@@ -56,8 +56,5 @@ pip install requests pandas beautifulsoup4
 python pluto.py
 ```
 6. Verifica el resultado:
-El script generará un archivo CSV con el nombre basado en el tiempo de ejecución, como pluto_60s.csv. Este archivo estará en la misma carpeta donde ejecutaste el script.
-Además, el script mostrará en la consola el nombre del archivo generado y el tiempo total de ejecución.
-
-7. Revisar el archivo CSV:
-Abre el archivo generado con cualquier editor de texto, Excel, o cualquier software que soporte archivos CSV.
+El script generará un archivo CSV con el nombre basado en el tiempo de ejecución, como pluto_227s.csv. Este archivo estará en la misma carpeta donde ejecutaste el script.
+Además, el script mostrará en la consola el nombre del archivo generado y el tiempo total de ejecución. Abre el archivo generado con cualquier editor de texto, Excel, o cualquier software que soporte archivos CSV.
