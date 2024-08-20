@@ -34,12 +34,12 @@ cd pluto_scrapping
 
 3. Create and activate the virtual environment
 
-   **Linux/MacOS**
+**Linux/MacOS**
 ```
 python3 -m venv venv/
 source venv/bin/activate
 ```
-   **Windows**
+**Windows**
 ```
 python3 -m venv venv/
 \venv\Scripts\activate.bat
