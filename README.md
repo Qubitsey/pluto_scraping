@@ -23,7 +23,7 @@ The project requires Python 3 installed on the system.
 
 1. Clone the Git
 ```
-git clone https://github.com/
+git clone [https://github.com/Qubitsey/pluto_scraping/blob/main]
 ```
 
 2. Enter the project folder
