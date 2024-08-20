@@ -47,7 +47,7 @@ python3 -m venv venv/
  4. Install dependencies
 
 ```
-pip install requests pandas beautifulsoup4
+pip install requests pandas beautifulsoup4 concurrent.futures
 ```
 
  5. Run the script
